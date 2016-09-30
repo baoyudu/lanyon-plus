@@ -4,7 +4,7 @@
 #permalink:           pretty
 permalink: /blog/:year/:month/:day/:title/
 relative_permalinks: false
-encoding: utf-8
+encoding: GBK
 
 # Setup
 title:               ????
