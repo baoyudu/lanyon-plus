@@ -7,10 +7,10 @@ relative_permalinks: false
 encoding: utf-8
 
 # Setup
-title:               My Website
+title:               ????
 #tagline:             'foo's website
-description:         Foo's blog...
-url: https://dyndna.github.io/lanyon-plus
+description:         ???????????????????????
+url: https://bestbao.top/
 baseurl: "/lanyon-plus"
 urlimg: https://dyndna.github.io/lanyon-plus/images/
 markdown: kramdown
@@ -44,31 +44,31 @@ exclude: ["lib", "config.rb", "Gemfile", "Capfile", "Gemfile.lock", "config", "l
 
 # About/contact
 author:
-  name:              Foo Boo
-  url:               https://twitter.com/abcd
+  name:              ??
+  url:               https://bestbao.top/
   avatar:         foo.png
   #email:           
 
 # Owner/author information
 owner:
-  name:           Foo Boo
+  name:           BaoYu
   avatar:         foo.png
   #email:          
   # Use the coder's toolbox at http://coderstoolbox.net/string/#!encoding=xml&action=encode&charset=us_ascii to encode your description into XML string
   description:
   # Social networking links used in footer. Update and remove as you like.
-  twitter:        abcd
-  facebook:       
-  github:         xyz123abc
-  stackexchange:  
-  linkedin:       https://www.linkedin.com/in/foo
-  instagram:      
-  flickr:
-  tumblr:  
-  google_plus:    https://plus.google.com/+foo
+#  twitter:        abcd
+#  facebook:       
+#  github:         xyz123abc
+#  stackexchange:  
+#  linkedin:       https://www.linkedin.com/in/foo
+#  instagram:      
+#  flickr:
+#  tumblr:  
+ # google_plus:    https://plus.google.com/+foo
   # orcid and google scholar IDs are different than standard username.
-  orcid: xyz123abc
-  gscholar: xyz123abc
+ # orcid: xyz123abc
+ # gscholar: xyz123abc
 
 ## sidebar links:
 # For external links add external: true
