@@ -7,9 +7,9 @@ relative_permalinks: false
 encoding: GBK
 
 # Setup
-title:               ????
+title:               心路笔记
 #tagline:             'foo's website
-description:         ???????????????????????
+description:         我依旧紧紧抓住你那残存的希望，再次使我如坠深渊
 url: https://bestbao.top/
 baseurl: "/lanyon-plus"
 urlimg: https://dyndna.github.io/lanyon-plus/images/
@@ -44,7 +44,7 @@ exclude: ["lib", "config.rb", "Gemfile", "Capfile", "Gemfile.lock", "config", "l
 
 # About/contact
 author:
-  name:              ??
+  name:          包煜
   url:               https://bestbao.top/
   avatar:         foo.png
   #email:           
